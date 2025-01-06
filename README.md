@@ -8,4 +8,3 @@
 - **Contributing**: Encourage others to contribute and mention how they can do so.
 - **License**: Add any licensing information if necessary, or leave it as is if using open-source licenses like MIT.
 
-This is a very basic README and can be further customized depending on your preferences.
